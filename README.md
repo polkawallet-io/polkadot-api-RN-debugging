@@ -4,9 +4,9 @@
 
 > wss://substrate-rpc.parity.io/
 
-> ws://10.0.2.2:9944  <android>
+> ws://10.0.2.2:9944  android
 
-> ws://127.0.0.1:9944     <ios>
+> ws://127.0.0.1:9944     ios
 ## @polkadot/api
 ### api.
 #### api.rpc
@@ -44,5 +44,9 @@ componentDidMount(){
 <Text style={styles.instructions}>{(nodeversion ||'-').toString()}</Text>
 ```
 
+> Now have the issue for Android: <https://github.com/polkadot-js/api/issues/526>
+iOS is not have this issue.
 
+
+Once this problem is resolved, debugging will take place shortly ：)
 
