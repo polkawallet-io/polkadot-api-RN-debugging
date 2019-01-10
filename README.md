@@ -2,8 +2,8 @@
 
 New the polkadot js Api is fully compatible with React Native. 
 
-**Reference**:
-<https://github.com/polkadot-js/api/issues/481>
+**Reference**:  
+<https://github.com/polkadot-js/api/issues/481>  
 <https://github.com/polkadot-js/api/issues/526>
 
 ## How to test
@@ -40,5 +40,6 @@ With another terminal:
 $ react-native log-android  // or ios
 ```
 
-**The effect** :
+**The effect** :  
+
 ![](https://user-images.githubusercontent.com/34789555/50756709-fc135d80-1297-11e9-9b61-7f86421e42e2.png)
