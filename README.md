@@ -44,4 +44,4 @@ $ react-native log-android  // or ios
 
 ![](https://user-images.githubusercontent.com/34789555/50756709-fc135d80-1297-11e9-9b61-7f86421e42e2.png)
 
-Special thanks to: @polkadot{.js}  &  @jacogr
+**Special thanks to** : [@polkadot{.js}](https://github.com/polkadot-js)  &  [@jacogr](https://github.com/jacogr)
